@@ -41,4 +41,8 @@ Este repositorio contiene el código fuente y la documentación de una **Platafo
 ### 🎥 Módulo de Streaming
 ![Módulo de Streaming](ruta_a_tu_imagen)
 
-Nota: Este proyecto fue desarrollado siguiendo las enseñanzas del curso de Jose Jaico en Udemy.
+Nota:
+
+Este proyecto fue desarrollado como parte de un curso de Udemy y sigue la estructura enseñada por Jose Jaico.
+No está destinado para uso comercial y se proporciona únicamente con fines educativos.  
+Si deseas utilizarlo en un proyecto real, revisa los términos del curso o contacta al instructor para obtener permisos.
