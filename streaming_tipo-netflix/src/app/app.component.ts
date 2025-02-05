@@ -17,9 +17,9 @@ export class AppComponent {
   }
   ngOnInit():void{
 
-    setTimeout(() => {
-      HOME_INIT($);
-      INIT_SWIPER($);
-    }, 50);
+    // setTimeout(() => {
+    //   HOME_INIT($);
+    //   INIT_SWIPER($);
+    // }, 50);
   }
 }
